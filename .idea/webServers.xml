@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="872c94cc-2deb-420b-b5c3-8e2ac7b9e583" name="hgf">
+        <fileTransfer rootFolder="/home/serveur/botscryptomainb" accessType="SFTP" host="10.20.10.16" port="22" sshConfigId="ede99bd2-04ee-4852-8f96-e2c035b5d64c" sshConfig="serveur@10.20.10.16:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
